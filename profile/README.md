@@ -10,9 +10,9 @@ Although these GitHub repositories may help you understand various approaches to
 they are not considered to be "production ready" and are not considered to be part of the Senzing product.
 Heck, they may not even be appropriate for your application of Senzing!
 
-For any assistance with the repositories of the **Senzing Garage**,
-in the appropriate repository use either
-[GitHub discusssion](https://github.com/features/discussions)
+For assistance with any **Senzing Garage** repository,
+use the repository's
+[GitHub Discusssions](https://github.com/features/discussions)
 for general discussions or
-[GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+[GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 to report a bug or make a feature request.
