@@ -1,4 +1,4 @@
-# Welcome to Senzing Garage
+# Welcome to the Senzing Garage
 
 If you are beginning your journey with
 [Senzing](https://senzing.com/),
@@ -11,6 +11,8 @@ they are not considered to be "production ready" and are not considered to be pa
 Heck, they may not even be appropriate for your application of Senzing!
 
 For any assistance with the repositories of the **Senzing Garage**,
-either open a GitHub issue or start a
+in the appropriate repository use either
 [GitHub discusssion](https://github.com/features/discussions)
-in the repository of interest.
+for general discussions or
+[GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+to report a bug or make a feature request.
